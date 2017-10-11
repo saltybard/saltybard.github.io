@@ -1,0 +1,110 @@
+@charset "utf-8";
+
+#container {
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#header {
+	text-align: center;
+	width: 990px;
+	height: auto;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: 80px;
+	text-decoration: underline;
+	background-color: rgba(211,211,210,1.00);
+	overflow-y: hidden;
+	padding-right: 10px;
+	
+}
+#nav {
+	margin-top: 10px;
+	width: 1000px;
+}
+#nav ul {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	background-color: rgba(211,211,210,1.00);
+	position: relative;
+}
+#nav ul:after {
+	content: "";
+	clear: both;
+	display: block;
+}
+#nav ul ul {
+	display: none;
+	position: absolute;
+	top: 100%;
+	left: 98px;
+	background-color: rgba(255,255,255,1.00);
+}
+#nav ul ul li {
+	float: none;
+	background-color: rgba(255,255,255,1.00);
+}
+#nav ul li:hover > ul {
+	display: block;
+}
+#nav ul li {
+	display: block;
+	padding-left: 20px;
+	padding-right: 20px;
+	float: left;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+#nav ul li:hover {
+	background-color: rgba(185,185,183,1.00);
+}
+#nav ul li a {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	color: rgba(0,0,0,1.00);
+	text-decoration: none;
+	font-size: 23px;
+}
+#nav ul li a:hover {
+	color: rgba(0,0,0,1.00);
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	text-decoration: none;
+	border-bottom: thin inset rgba(9,17,49,1.00);
+	position: relative;
+}
+#content {
+	background-color: rgba(211,211,210,1.00);
+	width: 980px;
+	height: 480px;
+	text-align: center;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	color: rgba(0,0,0,1.00);
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: large;
+	overflow-y: visible;
+	margin-top: 10px;
+}
+#footer {
+	background-color: rgba(211,211,210,1.00);
+	text-align: center;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	width: 1000px;
+	height: 54px;
+	color: rgba(0,0,0,1.00);
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: medium;
+	margin-top: 10px;
+	text-align: center;
+}
+#video {
+	height: 360px;
+	width: 640px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 60px;
+}
