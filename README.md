@@ -6,7 +6,7 @@
 
 [GitHup Repository](https://github.com/Drakeraven/SoupSaladBreadsticks) 
 
-[Domain Model] (https://drive.google.com/file/d/1rN0uP2sL3fyDrp0VXEUtnvuZ0eH48-oF/view?usp=sharing)
+[Domain Model](https://drive.google.com/file/d/1rN0uP2sL3fyDrp0VXEUtnvuZ0eH48-oF/view?usp=sharing)
 
 Group Email: soupsaladbreadsticks@gmail.com
 
