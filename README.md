@@ -2,7 +2,9 @@
 
 
 # Google Drive: 
-[Meeting Notes](https://drive.google.com/open?id=1iuQ9MJD08pNSK8V8knYg6O8uR3PKu4aX) 
+[Meeting Notes](https://drive.google.com/open?id=1iuQ9MJD08pNSK8V8knYg6O8uR3PKu4aX)
+
+[Google Drive](https://drive.google.com/open?id=0B7RjLFgrl8BDOTRXd1VTbU92RlE)
 
 [GitHup Repository](https://github.com/Drakeraven/SoupSaladBreadsticks) 
 
