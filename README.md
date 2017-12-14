@@ -14,6 +14,10 @@
 
 [Sequence Diagram](https://docs.google.com/document/d/1Z0UrdYLTZ1D0d88Fa7gVmDDs2y8pFgVz5qTPRMkDpn4/edit?usp=sharing)
 
+[ProjectState Code Deliverable](https://docs.google.com/document/d/1zMnCxlrCi3dYw0Lm__Eo7EZ0dP5laIi1OPvgjgxjE4o/edit?usp=sharing)
+
+[DIYGUI_APP.jar downloadable](https://drive.google.com/file/d/1xv-Xxov_kEbSLmECK3XD9nO1pd5pFTQ5/view?usp=sharing)
+
 Group Email: soupsaladbreadsticks@gmail.com
 
 
