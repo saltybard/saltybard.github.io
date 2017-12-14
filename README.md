@@ -18,7 +18,7 @@
 
 [DIYGUI_APP.jar downloadable](https://drive.google.com/file/d/1xv-Xxov_kEbSLmECK3XD9nO1pd5pFTQ5/view?usp=sharing)
 
-[Full Code Deliverable zip](https://drive.google.com/file/d/14NzPy6NpxubkjlXl_sQ9DZWdhnxhbGLG/view?usp=sharing)
+[Full Code Deliverable zip](https://drive.google.com/open?id=1B42wnR7RWS3b6P3ndvdap9otdBV0TDjd)
 
 Group Email: soupsaladbreadsticks@gmail.com
 
